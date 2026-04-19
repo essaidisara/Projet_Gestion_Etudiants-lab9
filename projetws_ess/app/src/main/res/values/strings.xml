@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projetws_ess</string>
+    <string-array name="villes_ess">
+        <item>Casablanca</item>
+        <item>MEKNAS</item>
+        <item>Marrakech</item>
+        <item>Agadir</item>
+    </string-array>
+</resources>
